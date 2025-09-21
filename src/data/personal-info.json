@@ -265,7 +265,8 @@
     {
       "title": "Foresight: Empowering Visually Impaired Individuals through Multimodal Generative AI",
       "venue": "IEEE",
-      "status": "Awaiting Publication",
+      "doi": "10.1109/ICOCT64433.2025.11118397",
+      "url": "https://doi.org/10.1109/ICOCT64433.2025.11118397",
       "date": "Aug 2025",
       "description": "Research on multimodal AI systems for accessibility enhancement",
       "category": "research"
