@@ -85,12 +85,12 @@
       "location": "Bangalore, India",
       "logo": "/professional-experience-logos/lowes.png",
       "duration": "Jul 2024 – Present",
-      "description": "Dual-focused role enhancing reusable MicroFrontend (MFE) applications delivering scalable updates via CDN while spearheading AI-driven automation initiatives. Collaborated across teams for seamless e-commerce integration from PLP to checkout, serving millions of users, and led cutting-edge AI solutions for vulnerability resolution, code generation, and team productivity enhancement.",
+      "description": "Dual-focused role designing and implementing Multi Agent Systems (MAS) with context routing and enhancing reusable MicroFrontend (MFE) applications delivering scalable updates via CDN while spearheading AI-driven automation initiatives.",
       "achievements": [
         "Enhanced MicroFrontend architecture delivering rapid, scalable updates to millions of users",
         "Championed AI-driven automation for vulnerability resolution and intelligent code generation",
-        "Developed internal automation tools boosting team efficiency using Python, FastAPI, and AI SDKs",
-        "Led cross-team collaboration for seamless e-commerce integration from PLP to checkout",
+        "Designed complex Agentic Workflows for Lowe's e-commerce companion - mylow",
+        "Rolled out coordination protocols for agent communication for MAS and shared memory for personalization",
         "Implemented AI solutions using Langchain, Google ADK, OpenAI, and HuggingFace technologies"
       ],
       "technologies": ["Python", "FastAPI", "Google ADK", "OpenAI SDK", "Langchain", "HuggingFace", "MCP", "React.js", "Redux", "Figma", "Docker", "Node.js"]
@@ -130,7 +130,7 @@
     "degree": "BE in Information Science Engineering",
     "institution": "Ramaiah Institute of Technology",
     "duration": "Nov 2020 – Jun 2024",
-    "cgpa": "9.54/10.0",
+    "cgpa": "9.56/10.0",
     "location": "Bangalore, India"
   },
   "projects": [
@@ -143,7 +143,7 @@
       "technologies": ["ShareGPT4V", "Detectron2", "Gemma 7B", "OpenAI Whisper", "Python", "AI/ML"],
       "github": "https://github.com/Shades-en/Foresight",
       "featured": true,
-      "categories": ["AI/ML", "Computer Vision", "Natural Language Processing"],
+      "categories": ["AI/ML", "Healthcare", "Computer Vision", "Natural Language Processing"],
       "image": "https://i.postimg.cc/bYkBPsQD/foresight.png",
       "status": "Published Research",
       "priority": 1
@@ -266,7 +266,7 @@
       "title": "Foresight: Empowering Visually Impaired Individuals through Multimodal Generative AI",
       "venue": "IEEE",
       "status": "Awaiting Publication",
-      "date": "Jun 2025",
+      "date": "Aug 2025",
       "description": "Research on multimodal AI systems for accessibility enhancement",
       "category": "research"
     },
@@ -286,13 +286,36 @@
       "date": "Jul 2025",
       "description": "Experiment on using AI to create a web portfolio",
       "category": "blog"
+    },
+    {
+      "title": "Production-Ready LLM Memory: Redis for Durable History and Semantic Retrieval — Part 1",
+      "venue": "Medium",
+      "url": "https://medium.com/@owaisiqbal2013/production-ready-llm-memory-redis-for-durable-history-and-semantic-retrieval-part-1-13713c21c0cb",
+      "date": "Sep 2025",
+      "description": "Part 1 of a series on building a production-ready LLM memory - Base setup and short-term memory.",
+      "category": "blog"
+    },
+    {
+      "title": "Production-Ready LLM Memory: Redis for Durable History and Semantic Retrieval — Part 2",
+      "venue": "Medium",
+      "url": "https://medium.com/@owaisiqbal2013/production-ready-llm-memory-redis-for-durable-history-and-semantic-retrieval-part-2-b244380618d0",
+      "date": "Sep 2025",
+      "description": "Part 2 of a series on building a production-ready LLM memory - Long-term memory with redis and semantic retrieval.",
+      "category": "blog"
     }
   ],
   "achievements": [
     {
+      "title": "Lowe's Q2 Changemaker Award",
+      "organization": "Lowe's Companies, Inc.",
+      "year": "2025",
+      "description": "Awarded for bringing AI and Dev Efficiency to life and excelling in actions.",
+      "category": "corporate"
+    },
+    {
       "title": "Lowe's Individual Excellence Award",
       "organization": "Lowe's Companies, Inc.",
-      "year": "2024",
+      "year": "2025",
       "description": "Awarded for bringing the Lowe's core values to life and excelling in actions. Superior sense of ownership and achieving against odds.",
       "category": "corporate",
       "url": "https://drive.google.com/file/d/1yrIC9wy2_VlhKVsrggzauwpuI17U6bS4/view?usp=drivesdk&usp=embed_facebook"
