@@ -1,9 +1,10 @@
 // Server Component - No 'use client' directive for SEO benefits
 import React from 'react';
-import { Code2, Brain, Server, Monitor, Cloud, type LucideIcon } from 'lucide-react';
+import { Code2, Boxes, Server, Monitor, Cloud, type LucideIcon } from 'lucide-react';
 import SkillCategory from './SkillCategory';
 import SkillsSummary from './SkillsSummary';
 import personalInfo from '@/data/personal-info.json';
+import { TokenIcon } from '@web3icons/react'
 
 interface Skill {
   readonly name: string;
@@ -27,9 +28,9 @@ const Skills: React.FC = () => {
       skills: personalInfo.skills.languages
     },
     {
-      title: 'AI/ML Technologies',
-      icon: Brain,
-      skills: personalInfo.skills.ai_ml
+      title: 'Solana Technologies',
+      icon: Boxes,
+      skills: personalInfo.skills.solana
     },
     {
       title: 'Backend Development',
@@ -50,7 +51,7 @@ const Skills: React.FC = () => {
 
   return (
     <section id="skills" className="py-16 bg-gradient-to-b from-background to-secondary/20">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
             Technical <span className="gradient-text">Expertise</span>
@@ -72,7 +73,7 @@ const Skills: React.FC = () => {
         </div>
 
         {/* Skills Summary */}
-        <SkillsSummary />
+        {/* <SkillsSummary /> */}
       </div>
     </section>
   );

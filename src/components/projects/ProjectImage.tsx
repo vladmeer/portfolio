@@ -1,6 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 import { Github } from 'lucide-react';
+import { LuEye } from "react-icons/lu";
 import { Button } from '@/components/ui/button';
 
 interface ProjectImageProps {
@@ -29,8 +30,8 @@ const ProjectImage: React.FC<ProjectImageProps> = ({ project }) => {
         <div className="flex space-x-4">
           <Button size="sm" variant="secondary" asChild>
             <a href={project.github} target="_blank" rel="noopener noreferrer">
-              <Github className="w-4 h-4 mr-2" />
-              Code
+              <LuEye className="w-16 h-16" />
+              View
             </a>
           </Button>
         </div>

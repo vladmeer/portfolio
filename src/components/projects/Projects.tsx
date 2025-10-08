@@ -45,7 +45,7 @@ const Projects: React.FC = () => {
             Featured <span className="gradient-text">Projects</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Innovative solutions that bridge AI/ML technology with real-world impact
+            Innovative solutions that bridge Blockchain, AI technology with real-world impact
           </p>
         </div>
 

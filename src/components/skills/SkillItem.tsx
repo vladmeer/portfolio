@@ -56,7 +56,7 @@ const SkillItem: React.FC<SkillItemProps> = ({ skill }) => {
           {skill.context}
         </span>
       </div>
-      <Badge 
+      {/* <Badge 
         variant={getExperienceBadgeVariant(skill.experience)}
         className="text-xs flex items-center gap-1 px-1.5 py-0.5 ml-2 flex-shrink-0"
       >
@@ -64,7 +64,7 @@ const SkillItem: React.FC<SkillItemProps> = ({ skill }) => {
         <span className="text-xs md:text-sm">
           {skill.experience.replace('+ years', 'y+').replace('+ year', 'y+')}
         </span>
-      </Badge>
+      </Badge> */}
     </div>
   );
 };

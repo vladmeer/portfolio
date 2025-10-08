@@ -15,14 +15,14 @@ const HomePage: React.FC = () => {
     <div className="min-h-screen">
       <Navigation />
       <Hero />
-      <About />
+      {/* <About /> */}
       <Skills />
-      <Experience />
+      {/* <Experience /> */}
       <Projects />
-      <Publications />
-      <Certifications />
-      <Awards />
-      <Contact />
+      {/* <Publications /> */}
+      {/* <Certifications /> */}
+      {/* <Awards /> */}
+      {/* <Contact /> */}
       <Footer />
     </div>
   );

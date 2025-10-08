@@ -27,14 +27,14 @@ const Navigation: React.FC = () => {
   }, []);
 
   const navItems: NavItem[] = [
-    { name: 'About', href: '#about' },
+    { name: 'About', href: '#hero' },
     { name: 'Skills', href: '#skills' },
-    { name: 'Experience', href: '#experience' },
+    // { name: 'Experience', href: '#experience' },
     { name: 'Projects', href: '#projects' },
-    { name: 'Publications', href: '#publications' },
-    { name: 'Certifications', href: '#certifications' },
-    { name: 'Awards', href: '#awards' },
-    { name: 'Contact', href: '#contact' }
+    // { name: 'Publications', href: '#publications' },
+    // { name: 'Certifications', href: '#certifications' },
+    // { name: 'Awards', href: '#awards' },
+    { name: 'Contact', href: '#footer' }
   ];
 
   const scrollToSection = (href: string) => {

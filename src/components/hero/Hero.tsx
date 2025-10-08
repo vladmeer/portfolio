@@ -1,5 +1,7 @@
 import React from 'react';
 import { ArrowDown, Download, Github, Linkedin, Mail } from 'lucide-react';
+import { BsTwitterX } from "react-icons/bs";
+import { LiaTelegramPlane } from "react-icons/lia";
 import { Button } from '@/components/ui/button';
 import ScrollButton from '../ScrollButton';
 import ProfileImage from './ProfileImage';
@@ -77,6 +79,24 @@ const Hero: React.FC = () => {
 
           {/* Social Links */}
           <div className="flex items-center justify-center lg:justify-start space-x-6 pt-4">
+            <a 
+              href={personalInfo.social.telegram.url}
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-muted-foreground hover:text-primary transition-all duration-300 hover:scale-125"
+              aria-label="Telegram Profile"
+            >
+              <LiaTelegramPlane size={27} />
+            </a>
+            <a 
+              href={personalInfo.social.twitter.url}
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-muted-foreground hover:text-primary transition-all duration-300 hover:scale-125"
+              aria-label="Twitter Profile"
+            >
+              <BsTwitterX size={22} />
+            </a>
             <a 
               href={personalInfo.social.github.url}
               target="_blank" 
