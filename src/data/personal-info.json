@@ -40,6 +40,14 @@
       "url": "https://x.com/vladmeer67",
       "username": "vladmeer"
     },
+    "discord": {
+      "url": "https://discord.com/users/197424152603394049",
+      "username": "vladmeer"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/@vladmeer",
+      "username": "vladmeer"
+    },
     "email": "mailto:vladmeer.dev@gmail.com",
     "phone": "tel:+916362185244",
     "resume": "https://drive.google.com/file/d/1YlAp1w9RoGmIC4iwQhms1r6eFVWl_jNC/view"
@@ -150,7 +158,7 @@
       "categories": ["Ethereum", "Solana", "Memecoin"],
       "image": "/projects/chainswap.avif",
       "status": "Published Research",
-      "priority": 1
+      "priority": 3
     },
     {
       "id": 2,
@@ -164,7 +172,7 @@
       "categories": ["Solana", "Memecoin", "Bot"],
       "image": "/projects/trojanbot.png",
       "status": "Open Source",
-      "priority": 2
+      "priority": 5
     },
     {
       "id": 3,
@@ -178,7 +186,7 @@
       "categories": ["Solana", "Bot"],
       "image": "/projects/raid.avif",
       "status": "Published Research",
-      "priority": 3
+      "priority": 7
     },
     {
       "id": 4,
@@ -192,7 +200,7 @@
       "categories": ["Solana", "Bot"],
       "image": "/projects/copy-trade.jpg",
       "status": "Completed",
-      "priority": 6
+      "priority": 9
     },
     {
       "id": 5,
@@ -206,7 +214,7 @@
       "categories": ["Solana", "Cosmos"],
       "image": "/projects/blazeswap.png",
       "status": "Completed",
-      "priority": 8
+      "priority": 11
     },
     {
       "id": 6,
@@ -220,7 +228,7 @@
       "categories": ["Solana", "NFT"],
       "image": "/projects/flork.png",
       "status": "Completed",
-      "priority": 5
+      "priority": 12
     },
     {
       "id": 7,
@@ -234,7 +242,7 @@
       "categories": ["Solana", "Bot"],
       "image": "/projects/bundler.jpg",
       "status": "Completed",
-      "priority": 9
+      "priority": 8
     },
     {
       "id": 8,
@@ -248,7 +256,7 @@
       "categories": ["Solana", "Bot"],
       "image": "/projects/sniper3.jpg",
       "status": "Completed",
-      "priority": 7
+      "priority": 10
     },
     {
       "id": 9,
@@ -262,7 +270,21 @@
       "categories": ["Solana", "Bot"],
       "image": "/projects/volume.webp",
       "status": "Completed",
-      "priority": 4
+      "priority": 13
+    },
+    {
+      "id": 10,
+      "title": "Teddis Nft shop",
+      "subtitle": "A one-of-a-kind Web3 platform built to power the Teddies ecosystem.",
+      "description": "A unique web3-native platform for the Teddies ecosystem. Earn points, unlock badges, flex your profile, participate in upcoming drops.",
+      "longDescription": "A unique web3-native platform for the Teddies ecosystem. Earn points, unlock badges, flex your profile, participate in upcoming drops.",
+      "technologies": ["Rust", "Anchor", "Solana/Web3", "NFT", "Candy Machine", "Turbo", "Nextjs"],
+      "github": "https://www.playteddies.com/",
+      "featured": false,
+      "categories": ["Solana", "Bot"],
+      "image": "/projects/teddis.png",
+      "status": "Completed",
+      "priority": 12
     }
   ],
   "publications": [

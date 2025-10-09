@@ -1,10 +1,10 @@
 # 🚀 Owais Iqbal - Professional Portfolio
 
-> A modern, fully-responsive portfolio showcasing AI/ML engineering expertise and full-stack development skills with a cyberpunk aesthetic.
+> A modern, fully-responsive portfolio showcasing Blockchain & AI developing expertise and full-stack development skills with a cyberpunk aesthetic.
 
 ## ✨ Overview
 
-This portfolio represents a comprehensive showcase of professional experience, technical skills, and innovative projects in AI/ML engineering and full-stack development. Built with modern web technologies and featuring a unique cyberpunk design aesthetic.
+This portfolio represents a comprehensive showcase of professional experience, technical skills, and innovative projects in Blockchain & AI developing and full-stack development. Built with modern web technologies and featuring a unique cyberpunk design aesthetic.
 
 ## 🎯 Key Features
 

@@ -6,7 +6,7 @@ import ContactInfo from './ContactInfo';
 import BottomBar from './BottomBar';
 import { BsTwitterX } from "react-icons/bs";
 import { LiaTelegramPlane } from "react-icons/lia";
-import { Github, Linkedin, Mail, type LucideIcon } from 'lucide-react';
+import { Github, Linkedin, Mail, Youtube, type LucideIcon } from 'lucide-react';
 import personalInfo from '@/data/personal-info.json';
 
 interface SocialLink {
@@ -21,6 +21,7 @@ const Footer: React.FC = () => {
     { icon: BsTwitterX, href: personalInfo.social.twitter.url, label: 'Twitter' },
     { icon: Github, href: personalInfo.social.github.url, label: 'GitHub' },
     { icon: Linkedin, href: personalInfo.social.linkedin.url, label: 'LinkedIn' },
+    { icon: Youtube, href: personalInfo.social.youtube.url, label: 'Youtube' },
     { icon: Mail, href: personalInfo.social.email, label: 'Email' }
   ];
   return (
