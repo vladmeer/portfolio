@@ -144,7 +144,7 @@ const Hero: React.FC = () => {
       {/* Scroll indicator */}
       <div className="absolute lg:bottom-8 bottom-4 left-1/2 transform -translate-x-1/2 animate-bounce">
         <ScrollButton
-          targetId="about"
+          targetId="skills"
           className="text-muted-foreground hover:text-primary transition-colors duration-300"
           ariaLabel="Scroll to about section"
         >
