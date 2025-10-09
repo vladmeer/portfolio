@@ -155,7 +155,7 @@
       "technologies": ["Ethereum", "Solana", "Solidity", "Rust", "Redis", "GrammY"],
       "github": "https://www.chainswap.tech",
       "featured": true,
-      "categories": ["Ethereum", "Solana", "Memecoin"],
+      "categories": ["Ethereum", "Solana"],
       "image": "/projects/chainswap.avif",
       "status": "Published Research",
       "priority": 3
@@ -169,7 +169,7 @@
       "technologies": ["Typescript", "Telegram API", "Solana/Web3", "Raydium SDK", "Jupiter API", "Pump.fun", "JITO", "MongoDB", "Redis"],
       "github": "https://github.com/Shades-en/PasswordlessAuth",
       "featured": true,
-      "categories": ["Solana", "Memecoin", "Bot"],
+      "categories": ["Solana"],
       "image": "/projects/trojanbot.png",
       "status": "Open Source",
       "priority": 5
@@ -183,7 +183,7 @@
       "technologies": ["Typescript", "GrammY", "Telegram API", "MongoDB"],
       "github": "https://t.me/raidsharksbot?startgroup=_",
       "featured": false,
-      "categories": ["Solana", "Bot"],
+      "categories": ["Solana"],
       "image": "/projects/raid.avif",
       "status": "Published Research",
       "priority": 7
@@ -197,7 +197,7 @@
       "technologies": ["Solana/Web3", "Typescript", "Raydium SDK", "Pump.fun", "Jupiter API"],
       "github": "https://github.com/vladmeer/copy-trading-bot",
       "featured": false,
-      "categories": ["Solana", "Bot"],
+      "categories": ["Solana"],
       "image": "/projects/copy-trade.jpg",
       "status": "Completed",
       "priority": 9
@@ -225,7 +225,7 @@
       "technologies": ["Solana/web3", "Rust", "Anchor", "Candy Machine", "Nextjs"],
       "github": "https://flork-site-sooty.vercel.app/",
       "featured": false,
-      "categories": ["Solana", "NFT"],
+      "categories": ["Solana"],
       "image": "/projects/flork.png",
       "status": "Completed",
       "priority": 12
@@ -239,7 +239,7 @@
       "technologies": ["Solana/Web3", "Pump.fun API", "JITO", "IPFS", "Typescript"],
       "github": "https://github.com/vladmeer/pumpfun-bundler",
       "featured": false,
-      "categories": ["Solana", "Bot"],
+      "categories": ["Solana"],
       "image": "/projects/bundler.jpg",
       "status": "Completed",
       "priority": 8
@@ -253,7 +253,7 @@
       "technologies": ["Solana/Web3", "Raydium SDK", "GRPC", "Jupiter API", "P9node", "Typescript"],
       "github": "https://github.com/vladmeer/Raydium-sniper",
       "featured": false,
-      "categories": ["Solana", "Bot"],
+      "categories": ["Solana"],
       "image": "/projects/sniper3.jpg",
       "status": "Completed",
       "priority": 10
@@ -267,7 +267,7 @@
       "technologies": ["Solana/Web3", "Raydium SDK", "Jupiter API", "Typescript"],
       "github": "https://github.com/vladmeer/meteora-volume-bot",
       "featured": false,
-      "categories": ["Solana", "Bot"],
+      "categories": ["Solana"],
       "image": "/projects/volume.webp",
       "status": "Completed",
       "priority": 13
@@ -278,186 +278,55 @@
       "subtitle": "A one-of-a-kind Web3 platform built to power the Teddies ecosystem.",
       "description": "A unique web3-native platform for the Teddies ecosystem. Earn points, unlock badges, flex your profile, participate in upcoming drops.",
       "longDescription": "A unique web3-native platform for the Teddies ecosystem. Earn points, unlock badges, flex your profile, participate in upcoming drops.",
-      "technologies": ["Rust", "Anchor", "Solana/Web3", "NFT", "Candy Machine", "Turbo", "Nextjs"],
+      "technologies": ["Rust", "Anchor", "Solana/Web3", "PNFT", "Candy Machine", "Turbo", "Nextjs"],
       "github": "https://www.playteddies.com/",
       "featured": false,
-      "categories": ["Solana", "Bot"],
+      "categories": ["Solana"],
       "image": "/projects/teddis.png",
       "status": "Completed",
       "priority": 12
-    }
-  ],
-  "publications": [
-    {
-      "title": "Foresight: Empowering Visually Impaired Individuals through Multimodal Generative AI",
-      "venue": "IEEE",
-      "doi": "10.1109/ICOCT64433.2025.11118397",
-      "url": "https://doi.org/10.1109/ICOCT64433.2025.11118397",
-      "date": "Aug 2025",
-      "description": "Research on multimodal AI systems for accessibility enhancement",
-      "category": "research"
     },
     {
-      "title": "AuthEZ: A Multifaceted Identity Provider Service using Facial, Voice, and In-App Authentication",
-      "venue": "IEEE",
-      "doi": "10.1109/GCAT62922.2024.10923933",
-      "url": "https://doi.org/10.1109/GCAT62922.2024.10923933",
-      "date": "Oct 2024",
-      "description": "Comprehensive study on passwordless authentication methodologies",
-      "category": "research"
+      "id": 11,
+      "title": "Monkai",
+      "subtitle": "Multi-Chain NFT experiment",
+      "description": "Monkai is a Multi-Chain NFT experiment where we combine Ethereum and Solana along with community choice to bring forth innovative utility, community building, and an epic pvp metaverse. By obtaining a Monkai NFT collectibles, you can participate in creating the Monkai anime narrative and access the Monkai DAO utilities.",
+      "longDescription": "Monkai is a Multi-Chain NFT experiment where we combine Ethereum and Solana along with community choice to bring forth innovative utility, community building, and an epic pvp metaverse. By obtaining a Monkai NFT collectibles, you can participate in creating the Monkai anime narrative and access the Monkai DAO utilities.",
+      "technologies": ["Solana", "Ethereum", "Anchor", "Defi", "NFT", "Solidity", "Nextjs"],
+      "github": "https://monkainft.com/",
+      "featured": false,
+      "categories": ["Solana", "Ethereum"],
+      "image": "/projects/teddis.png",
+      "status": "Completed",
+      "priority": 2
     },
     {
-      "title": "I Vibecoded My Web Portfolio with AI — A 2025 Experiment",
-      "venue": "Medium",
-      "url": "https://medium.com/@owaisiqbal2013/i-vibecoded-my-web-portfolio-with-ai-a-2025-experiment-edcfdfc21092",
-      "date": "Jul 2025",
-      "description": "Experiment on using AI to create a web portfolio",
-      "category": "blog"
+      "id": 11,
+      "title": "Monkai",
+      "subtitle": "Multi-Chain NFT experiment",
+      "description": "Monkai is a Multi-Chain NFT experiment where we combine Ethereum and Solana along with community choice to bring forth innovative utility, community building, and an epic pvp metaverse. By obtaining a Monkai NFT collectibles, you can participate in creating the Monkai anime narrative and access the Monkai DAO utilities.",
+      "longDescription": "Monkai is a Multi-Chain NFT experiment where we combine Ethereum and Solana along with community choice to bring forth innovative utility, community building, and an epic pvp metaverse. By obtaining a Monkai NFT collectibles, you can participate in creating the Monkai anime narrative and access the Monkai DAO utilities.",
+      "technologies": ["Solana", "Ethereum", "Anchor", "Defi", "NFT", "Solidity", "Nextjs"],
+      "github": "https://monkainft.com/",
+      "featured": false,
+      "categories": ["Solana", "Ethereum"],
+      "image": "/projects/teddis.png",
+      "status": "Completed",
+      "priority": 2
     },
     {
-      "title": "Production-Ready LLM Memory: Redis for Durable History and Semantic Retrieval — Part 1",
-      "venue": "Medium",
-      "url": "https://medium.com/@owaisiqbal2013/production-ready-llm-memory-redis-for-durable-history-and-semantic-retrieval-part-1-13713c21c0cb",
-      "date": "Sep 2025",
-      "description": "Part 1 of a series on building a production-ready LLM memory - Base setup and short-term memory.",
-      "category": "blog"
-    },
-    {
-      "title": "Production-Ready LLM Memory: Redis for Durable History and Semantic Retrieval — Part 2",
-      "venue": "Medium",
-      "url": "https://medium.com/@owaisiqbal2013/production-ready-llm-memory-redis-for-durable-history-and-semantic-retrieval-part-2-b244380618d0",
-      "date": "Sep 2025",
-      "description": "Part 2 of a series on building a production-ready LLM memory - Long-term memory with redis and semantic retrieval.",
-      "category": "blog"
-    }
-  ],
-  "achievements": [
-    {
-      "title": "Lowe's Q2 Changemaker Award",
-      "organization": "Lowe's Companies, Inc.",
-      "year": "2025",
-      "description": "Awarded for bringing AI and Dev Efficiency to life and excelling in actions.",
-      "category": "corporate"
-    },
-    {
-      "title": "Lowe's Individual Excellence Award",
-      "organization": "Lowe's Companies, Inc.",
-      "year": "2025",
-      "description": "Awarded for bringing the Lowe's core values to life and excelling in actions. Superior sense of ownership and achieving against odds.",
-      "category": "corporate",
-      "url": "https://drive.google.com/file/d/1yrIC9wy2_VlhKVsrggzauwpuI17U6bS4/view?usp=drivesdk&usp=embed_facebook"
-    },
-    {
-      "title": "Lowe's Spot Award",
-      "organization": "Lowe's Companies, Inc.",
-      "year": "2024",
-      "description": "Immediate recognition for taking action at the right time and going all out in getting the job done.",
-      "category": "corporate",
-      "url": "https://drive.google.com/file/d/1u4wFx8khOBt7NiXoSHrRgmUTfEmheq4W/view?usp=drivesdk&usp=embed_facebook"
-    },
-    {
-      "title": "Pradarshana 2024 - 1st Place",
-      "organization": "Ramaiah Institute of Technology",
-      "year": "2024",
-      "description": "First place at Final Year innovation exhibition for Foresight project",
-      "category": "competitive",
-      "url": "https://drive.google.com/file/d/1PRPSAcT3uvEDA2iZMDprFA1Jv5zae3yd/view?usp=sharing&usp=embed_facebook"
-    },
-    {
-      "title": "Campus Research Certificate",
-      "organization": "Unisys Serbia",
-      "year": "2024",
-      "description": "Recognition for Foresight: Accessibility Accelerator Using Multimodal Generative AI",
-      "category": "academic",
-      "url": "https://drive.google.com/file/d/1ovpyEYgLy3r6h-vEP-QZK_MA9NcHFGBH/view?usp=drivesdk&usp=embed_facebook"
-    },
-    { 
-      "title": "Reva Hack 2021 - 2nd Place",
-      "organization": "Reva University",
-      "year": "2021",
-      "description": "Second place for Myxable, an open-source multiformat bulk file conversion platform",
-      "category": "competitive",
-      "url": "https://drive.google.com/file/d/1qvHmLXbMzdKqenyvgwg7bVSxq9u_MIQj/view?usp=sharing&usp=embed_facebook"
-    }
-  ],
-  "certifications": [
-    {
-      "id": 1,
-      "title": "Deep Learning Specialization",
-      "provider": "Coursera",
-      "year": "2023",
-      "description": "Comprehensive deep learning specialization covering neural networks, optimization, and advanced architectures",
-      "certificates": [
-        {
-          "url": "https://coursera.org/verify/JXGWAGQ34VTY",
-          "title": "Advanced Learning Algorithms",
-          "year": "2022",
-          "credentialId": "JXGWAGQ34VTY"
-        },
-        {
-          "url": "https://coursera.org/verify/FCSKKCABZXJR",
-          "title": "Sequence Models",
-          "year": "2023",
-          "credentialId": "FCSKKCABZXJR"
-        },
-        {
-          "url": "https://coursera.org/verify/9SWQRKTMS85Y",
-          "title": "Convolutional Neural Networks",
-          "year": "2023",
-          "credentialId": "9SWQRKTMS85Y"
-        },
-        {
-          "url": "https://www.coursera.org/account/accomplishments/verify/RNJFP74S7RYF",
-          "title": "Supervised Machine Learning: Regression and Classification",
-          "year": "2022",
-          "credentialId": "RNJFP74S7RYF"
-        }
-      ],
-      "skills": ["Neural Networks", "Computer Vision", "Natural Language Processing", "Convolutional Neural Networks", "TensorFlow", "Supervised Learning", "Unsupervised Learning"]
-    },
-    {
-      "id": 2,
-      "title": "Microsoft Azure Fundamentals",
-      "provider": "Coursera",
-      "year": "2024",
-      "description": "Azure cloud services, architecture, and deployment strategies for enterprise applications",
-      "certificates": [
-        {
-          "url": "https://www.coursera.org/account/accomplishments/verify/9ZXJV8ATL52V",
-          "title": "Microsoft Azure Management Tools and Security Solutions",
-          "year": "2024",
-          "credentialId": "9ZXJV8ATL52V"
-        },
-        {
-          "url": "https://www.coursera.org/account/accomplishments/verify/HZMYP7MHNL4X",
-          "title": "Microsoft Azure Services and Lifecycles",
-          "year": "2024",
-          "credentialId": "HZMYP7MHNL4X"
-        },
-        {
-          "url": "https://www.coursera.org/account/accomplishments/verify/X85NDRLLFGD2",
-          "title": "Introduction to Microsoft Azure Cloud Services",
-          "year": "2024",
-          "credentialId": "X85NDRLLFGD2"
-        }
-      ],
-      "skills": ["Cloud Computing", "Azure Services", "Cloud Architecture", "DevOps"]
-    },
-    {
-      "id": 3,
-      "title": "Kubernetes Fundamentals",
-      "provider": "LinkedIn Learning",
-      "year": "2024",
-      "certificates": [
-        {
-          "url": "https://drive.google.com/drive/u/1/folders/1dr8EfTztRF8BeTUbG6rtpocDs5RvCgpH",
-          "title": "Kubernetes Fundamentals",
-          "year": "2024",
-          "credentialId": "73e74bbff766d825612bbc361791644140c59fed0eb11c811275ff4ca9969689"
-        }
-      ],
-      "description": "Container orchestration, cluster management, and cloud-native application deployment",
-      "skills": ["Container Orchestration", "DevOps", "Cloud Native", "Microservices"]
+      "id": 12,
+      "title": "Degen Taxi",
+      "subtitle": "Solana crash game",
+      "description": "Degen Taxi is one kind of Sol crash game. It proves that the odds are as advertised (5% house edge) and that the rolls are predetermined and cannot react to how players bet.",
+      "longDescription": "Degen Taxi is one kind of Sol crash game. It proves that the odds are as advertised (5% house edge) and that the rolls are predetermined and cannot react to how players bet.",
+      "technologies": ["Solana", "Rust", "Anchor", "Nextjs"],
+      "github": "https://degentaxi.io",
+      "featured": false,
+      "categories": ["Solana"],
+      "image": "/projects/degen.png",
+      "status": "Completed",
+      "priority": 14
     }
   ],
   "seo": {
