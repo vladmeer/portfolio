@@ -2,20 +2,20 @@
   "personal": {
     "name": "Dave Vasu",
     "nickname": "Vladmeer",
-    "title": "Blockchain, AI, Full Stack Developer",
-    "company": "Lowe's Companies, Inc.",
+    "title": "Solana & AI Full Stack Developer",
+    "company": "Monkai, US",
     "location": "Kraljevo, Serbia",
     "email": "vladmeer.dev@gmail.com",
-    "phone": "+91-6362185244",
-    "tagline": "Blockchain, AI, Full Stack Developer",
-    "bio": "I architect intelligent solutions at the intersection of AI and full-stack development. From building accessibility-first applications to automating complex workflows, I transform ideas into impactful digital experiences.",
+    "phone": "",
+    "tagline": "Solana & AI Full Stack Developer",
+    "bio": "I architect intelligent solutions at the intersection of Solana and AI full-stack development. From building accessibility-first applications to automating complex workflows, I transform ideas into impactful digital experiences.",
     "closingBio": "Let’s team up and build something awesome! Always open to cool projects and new ideas.",
     "story": [
       "As a skilled and passionate software developer for over 9 years of experience in Software(Web and App) development on front-end and backend sides, I have a solid experience in back end development including Rust Smart Contract part. I have been involved in software development since 2014, thanks to which knows what it takes to come up with effective solutions to complex problems. I believe that great results come from a product of great passion and my positive attitude and of proactive approach help me deliver these results in a very natural way."],
     "profileImage": "/anus.gif"
   },
   "stats": {
-    "projects": "10+",
+    "projects": "13+",
     "yearsExperience": "4+",
     "technologiesMastered": "30+"
   },
@@ -301,20 +301,6 @@
       "priority": 2
     },
     {
-      "id": 11,
-      "title": "Monkai",
-      "subtitle": "Multi-Chain NFT experiment",
-      "description": "Monkai is a Multi-Chain NFT experiment where we combine Ethereum and Solana along with community choice to bring forth innovative utility, community building, and an epic pvp metaverse. By obtaining a Monkai NFT collectibles, you can participate in creating the Monkai anime narrative and access the Monkai DAO utilities.",
-      "longDescription": "Monkai is a Multi-Chain NFT experiment where we combine Ethereum and Solana along with community choice to bring forth innovative utility, community building, and an epic pvp metaverse. By obtaining a Monkai NFT collectibles, you can participate in creating the Monkai anime narrative and access the Monkai DAO utilities.",
-      "technologies": ["Solana", "Ethereum", "Anchor", "Defi", "NFT", "Solidity", "Nextjs"],
-      "github": "https://monkainft.com/",
-      "featured": false,
-      "categories": ["Solana", "Ethereum"],
-      "image": "/projects/teddis.png",
-      "status": "Completed",
-      "priority": 2
-    },
-    {
       "id": 12,
       "title": "Degen Taxi",
       "subtitle": "Solana crash game",
@@ -330,9 +316,9 @@
     }
   ],
   "seo": {
-    "title": "Vladmeer - Blockchain & AI Full Stack Developer",
+    "title": "Vladmeer - Solana & AI Full Stack Developer",
     "description": "As a skilled and passionate software developer for over 9 years of experience in Software(Web and App) development on front-end and backend sides, I have a solid experience in back end development including Rust Smart Contract part.",
-    "keywords": ["Dave vasu", "Solana Developer", "Full Stack Developer", "Solana", "web3", "Raydium", "Jupiter", "Pumpfun", "Smart contract", "Kraljevo", "AI"],
+    "keywords": ["Dave vasu", "Solana Developer", "Full Stack Developer", "Solana", "web3", "Raydium", "Jupiter", "Pumpfun", "Smart contract", "AI"],
     "ogImage": "/anus.gif",
     "googleSiteVerification": "oNrOrBYC8Dz7PNuaUMPlYXCVWaPbmLofyH5Q9EoXg50",
     "icon": {
