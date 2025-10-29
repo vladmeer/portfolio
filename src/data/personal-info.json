@@ -237,7 +237,7 @@
       "description": "This is the best, fastest, and most efficient self-bundling script for PumpFun, allowing you to create a token and buy tokens with your own 20 different wallets in one single bundle.",
       "longDescription": "This is the best, fastest, and most efficient self-bundling script for PumpFun, allowing you to create a token and buy tokens with your own 20 different wallets in one single bundle.",
       "technologies": ["Solana/Web3", "Pump.fun API", "JITO", "IPFS", "Typescript"],
-      "github": "https://github.com/vladmeer/pumpfun-bundler",
+      "github": "https://trojan-app.vercel.app/",
       "featured": false,
       "categories": ["Solana"],
       "image": "/projects/bundler.jpg",
