@@ -313,6 +313,48 @@
       "image": "/projects/degen.png",
       "status": "Completed",
       "priority": 14
+    },
+    {
+      "id": 13,
+      "title": "Meme tool",
+      "subtitle": "Solana Meme Tool",
+      "description": "Meme Tool is a powerful Solana trading platform offering bundler, sniper, and copy trading features — plus smart wallet risk scoring and analytics for safer, faster trades.",
+      "longDescription": "Meme Tool is an advanced trading platform built on Solana DEXs such as Raydium and Pumpfun.It offers a comprehensive suite of tools for traders — including a transaction bundler, sniper, and copy trading features.Additionally, it provides wallet risk-score prediction and other smart analytics to help users trade more efficiently and safely.",
+      "technologies": ["Solana", "Raydium SDK", "Pump.fun", "JITO", "Astralane", "Nextjs", "Typescript"],
+      "github": "https://trojan-app.vercel.app/",
+      "featured": false,
+      "categories": ["Solana"],
+      "image": "/projects/meme-tool.png",
+      "status": "Featured",
+      "priority": 4
+    },
+    {
+      "id": 14,
+      "title": "Copy Meme",
+      "subtitle": "Copy Trending Meme Coins with 1-Click",
+      "description": "Find trending coins on Pump.fun, click once, and deploy your copy on Raydium. It's that simple.",
+      "longDescription": "Find trending coins on Pump.fun, click once, and deploy your copy on Raydium. It's that simple.",
+      "technologies": ["Solana", "Pump.fun", "GRPC","0Slot", "Nextjs", "Typescript"],
+      "github": "https://copy-meme-nine.vercel.app/",
+      "featured": false,
+      "categories": ["Solana"],
+      "image": "/projects/copymeme.png",
+      "status": "Completed",
+      "priority": 11
+    },
+    {
+      "id": 15,
+      "title": "Apex Signal Bot",
+      "subtitle": "Apex Solana Signal Telegram Bot",
+      "description": "Profit Trading Signals provides daily insights on trending tokens and top performers — empowering smarter trades (NFA, always DYOR).",
+      "longDescription": "Profit Trading Signals provides daily insights on trending tokens and top performers — empowering smarter trades (NFA, always DYOR).",
+      "technologies": ["Solana", "GrammY", "Python"],
+      "github": "https://t.me/ApexSolanaSignal",
+      "featured": false,
+      "categories": ["Solana"],
+      "image": "/projects/apex.jpg",
+      "status": "Completed",
+      "priority": 11
     }
   ],
   "seo": {
