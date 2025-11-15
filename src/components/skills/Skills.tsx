@@ -28,9 +28,9 @@ const Skills: React.FC = () => {
       skills: personalInfo.skills.languages
     },
     {
-      title: 'Solana Technologies',
+      title: 'Blockchain Technologies',
       icon: Boxes,
-      skills: personalInfo.skills.solana
+      skills: personalInfo.skills.blockchain
     },
     {
       title: 'Backend Development',

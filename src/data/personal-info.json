@@ -54,37 +54,59 @@
   },
   "skills": {
     "languages": [
-      { "name": "Rust", "experience": "5+ years", "context": "Tauri, sqlx, Wasmer", "category": "Programming Languages", "icon": "https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/rust/rust-original.svg" },
-      { "name": "JavaScript", "experience": "3+ years", "context": "Full-stack, React, Node.js", "category": "Programming Languages", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
-      { "name": "TypeScript", "experience": "2+ years", "context": "Enterprise React/Next.js", "category": "Programming Languages", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" },
+      { "name": "Rust", "experience": "3+ years", "context": "Tauri, sqlx, Wasmer", "category": "Programming Languages", "icon": "https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/rust/rust-original.svg" },
+      { "name": "Python", "experience": "3+ years", "context": "AI, Machine Learning, Data Science", "category": "Programming Languages", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" },
+      { "name": "JavaScript", "experience": "5+ years", "context": "Full-stack, React, Node.js", "category": "Programming Languages", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
+      { "name": "TypeScript", "experience": "4+ years", "context": "Enterprise React/Next.js", "category": "Programming Languages", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" },
       { "name": "PHP", "experience": "7+ year", "context": "Laravel, CI, Wordpress", "category": "Programming Languages", "icon": "https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/php/php-original.svg" },
       { "name": "C", "experience": "Academic", "context": "Systems, algorithms", "category": "Programming Languages", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" },
-      { "name": "SQL", "experience": "2+ years", "context": "Database design, queries", "category": "Programming Languages", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" }
+      { "name": "SQL", "experience": "5+ years", "context": "Database design, queries", "category": "Programming Languages", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" },
+      { "name": "Solidity", "experience": "3+ years", "context": "Smart Contract Development", "category": "Programming Languages", "icon": "https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/solidity/solidity-original.svg" },
+      { "name": "C#", "experience": "5+ years", "context": "Backend Development", "category": "Programming Languages", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" },
+      { "name": ".NET", "experience": "5+ years", "context": "Backend Development", "category": "Programming Languages", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" }
     ],
-    "solana": [
-      { "name": "Web3", "experience": "3+ year", "context": "Defi, Dapps, DAO, Dex", "category": "solana", "icon": "https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/web3js/web3js-original.svg" },
-      { "name": "Anchor", "experience": "3+ year", "context": "Dex sc, SPL token launchpad", "category": "solana", "icon": "https://cdn.iconscout.com/icon/premium/png-512-thumb/anchor-icon-svg-download-png-2819346.png?f=webp&w=256" },
-      { "name": "Jupiter", "experience": "", "context": "Arbitrage bot, Swap", "category": "solana", "icon": "https://static1.tokenterminal.com//jupiter/products/jupiterdca/logo.png" },
-      { "name": "Raydium", "experience": "1+ year", "context": "LaunchPad, Dex integration", "category": "solana", "icon": "https://cdn.iconscout.com/icon/premium/png-512-thumb/raydium-ray-icon-svg-download-png-5795481.png?f=webp&w=256" },
-      { "name": "Pumpfun", "experience": "", "context": "SC fork, trading tools", "category": "solana", "icon": "https://upload.wikimedia.org/wikipedia/en/b/bd/Pump_fun_logo.png?20241223193055" },
-      { "name": "Meteora", "experience": "", "context": "Bundler, Volume bot", "category": "solana", "icon": "https://img.cryptorank.io/coins/meteora1679488925724.png" }
+    "blockchain": [
+      { "name": "Solana", "experience": "3+ years", "context": "High-performance blockchain, smart contracts, Web3 applications, DApps", "category": "blockchain", "icon": "/professional-experience-logos/solana.png" },
+      { "name": "Ethereum", "experience": "3+ years", "context": "Smart contract development, DApps, DeFi protocols, ERC standards", "category": "blockchain", "icon": "/professional-experience-logos/ethereum.png" },
+      { "name": "XION", "experience": "1+ year", "context": "Consumer-focused blockchain, abstracted accounts, seamless UX", "category": "blockchain", "icon": "/professional-experience-logos/xion.png" },
+      { "name": "ICP", "experience": "1+ year", "context": "Internet Computer Protocol, canister smart contracts, decentralized web", "category": "blockchain", "icon": "/professional-experience-logos/icp.png" },
+      { "name": "Smart Contracts", "experience": "3+ years", "context": "Rust, Solidity, Anchor framework, secure contract development", "category": "blockchain", "icon": "https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/solidity/solidity-original.svg" },
+      { "name": "Web3", "experience": "3+ years", "context": "Decentralized applications, blockchain integration, wallet connectivity", "category": "blockchain", "icon": "https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/web3js/web3js-original.svg" },
+      { "name": "DeFi", "experience": "3+ years", "context": "Decentralized finance protocols, liquidity pools, yield farming, lending", "category": "blockchain", "icon": "/professional-experience-logos/defi.png" },
+      { "name": "DEX", "experience": "3+ years", "context": "Decentralized exchange development, AMM protocols, liquidity management", "category": "blockchain", "icon": "/professional-experience-logos/dex.jpg" },
+      { "name": "Metaverse", "experience": "2+ years", "context": "Virtual worlds, NFT integration, immersive experiences, 3D environments", "category": "blockchain", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" },
+      { "name": "AI Agent", "experience": "2+ years", "context": "AI-powered blockchain agents, automated trading, intelligent DeFi protocols", "category": "blockchain", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" },
+      { "name": "DAO", "experience": "2+ years", "context": "Decentralized autonomous organizations, governance systems, voting mechanisms", "category": "blockchain", "icon": "/professional-experience-logos/dao.png" }
     ],
     "backend": [
       { "name": "Node.js", "experience": "3+ years", "context": "RESTful APIs, microservices", "category": "Backend", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" },
-      { "name": "Tauri", "experience": "2+ year", "context": "Cross-platform, Native APIs", "category": "Backend", "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEHAuXM5JmcWGqqo8eTThIkmokMRIPF_rsOzF6_d1gImLXqpoXHxopZvFc_fGjRTY0dbU&usqp=CAU" },
-      { "name": "Laravel", "experience": "1+ year", "context": "Web apps, admin panels", "category": "Backend", "icon": "https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/laravel/laravel-original.svg" },
       { "name": "Express", "experience": "1+ year", "context": "Lightweight APIs", "category": "Backend", "icon": "https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/express/express-original.svg" },
+      { "name": "Python", "experience": "3+ years", "context": "AI, Machine Learning, Data Science", "category": "Backend", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" },
+      { "name": "FastAPI", "experience": "1+ year", "context": "Fast, modern, and user-friendly web framework for building APIs", "category": "Backend", "icon": "https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/fastapi/fastapi-original.svg" },
+      { "name": "Django", "experience": "1+ year", "context": "Web apps, admin panels", "category": "Backend", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" },
+      { "name": "Flask", "experience": "1+ year", "context": "Web apps, admin panels", "category": "Backend", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" },
+      { "name": "Tauri", "experience": "2+ year", "context": "Cross-platform, Native APIs", "category": "Backend", "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEHAuXM5JmcWGqqo8eTThIkmokMRIPF_rsOzF6_d1gImLXqpoXHxopZvFc_fGjRTY0dbU&usqp=CAU" },
+      { "name": "Rocket", "experience": "1+ year", "context": "Rust-based web framework", "category": "Backend", "icon": "https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/rocket/rocket-original.svg" },
+      { "name": "Laravel", "experience": "1+ year", "context": "Web apps, admin panels", "category": "Backend", "icon": "https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/laravel/laravel-original.svg" },
       { "name": "Spring Boot", "experience": "1+ year", "context": "Enterprise Java apps", "category": "Backend", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" }
     ],
     "frontend": [
       { "name": "React.js", "experience": "3+ years", "context": "MicroFrontends, SPAs", "category": "Frontend", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
       { "name": "Next.js", "experience": "1+ year", "context": "SSG/SSR applications", "category": "Frontend", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" },
+      { "name": "Nuxt.js", "experience": "1+ year", "context": "SSG/SSR applications", "category": "Frontend", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" },
+      { "name": "Vue.js", "experience": "1+ year", "context": "SSG/SSR applications", "category": "Frontend", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" },
+      { "name": "Svelte", "experience": "1+ year", "context": "SSG/SSR applications", "category": "Frontend", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" },
+      { "name": "Tailwind CSS", "experience": "1+ year", "context": "CSS framework", "category": "Frontend", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" },
+      { "name": "vite", "experience": "1+ year", "context": "Build tool", "category": "Frontend", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" },
+      { "name": "Vue.js", "experience": "1+ year", "context": "SSG/SSR applications", "category": "Frontend", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" },
       { "name": "ThreeJS", "experience": "Project-based", "context": "3D visualizations", "category": "Frontend", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" },
       { "name": "HTML/CSS", "experience": "4+ years", "context": "Responsive design", "category": "Frontend", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" }
     ],
     "cloud_databases": [
       { "name": "AWS", "experience": "Project-based", "context": "Amazon RDS, IAM", "category": "Cloud & Databases", "icon": "https://aws-icons.com/aws-icons-logo.svg" },
       { "name": "MongoDB", "experience": "2+ year", "context": "NoSQL databases", "category": "Cloud & Databases", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" },
+      { "name": "PostgreSQL", "experience": "1+ year", "context": "Relational databases", "category": "Cloud & Databases", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" },
+      { "name": "Oracle", "experience": "1+ year", "context": "Relational databases", "category": "Cloud & Databases", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" },
       { "name": "MySQL", "experience": "2+ years", "context": "Migration", "category": "Cloud & Databases", "icon": "https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-original-wordmark.svg" },
       { "name": "Firebase", "experience": "1+ year", "context": "REST API", "category": "Cloud & Databases", "icon": "https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/firebase/firebase-plain-wordmark.svg" },
       { "name": "Redis", "experience": "1+ year", "context": "Caching, sessions", "category": "Cloud & Databases", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" }
@@ -150,7 +172,7 @@
       "id": 1,
       "title": "Chainswap",
       "subtitle": "Multi-chain DEX",
-      "description": "ChainSwap is recognized as a trusted, private, and secure platform for multichain and privacy swaps.",
+      "description": "ChainSwap is recognized as a trusted, private, and secure platform for multichain and privacy swaps. Integrating Chainlink’s Cross Chain Interoperability Protocol - CCIP and Circles Cross Chain Transfer Protocol  - CCTP",
       "longDescription": "ChainSwap supports secure swaps through a multi-chain DEX. It enables cross-chain swaps, privacy-focused transactions, and smooth token distribution in one environment.",
       "technologies": ["Ethereum", "Solana", "Solidity", "Rust", "Redis", "GrammY"],
       "github": "https://www.chainswap.tech",
@@ -237,7 +259,7 @@
       "description": "This is the best, fastest, and most efficient self-bundling script for PumpFun, allowing you to create a token and buy tokens with your own 20 different wallets in one single bundle.",
       "longDescription": "This is the best, fastest, and most efficient self-bundling script for PumpFun, allowing you to create a token and buy tokens with your own 20 different wallets in one single bundle.",
       "technologies": ["Solana/Web3", "Pump.fun API", "JITO", "IPFS", "Typescript"],
-      "github": "https://trojan-app.vercel.app/",
+      "github": "https://c-meme-tools.vercel.app/",
       "featured": false,
       "categories": ["Solana"],
       "image": "/projects/bundler.jpg",
@@ -355,6 +377,34 @@
       "image": "/projects/apex.jpg",
       "status": "Completed",
       "priority": 11
+    },
+    {
+      "id": 16,
+      "title": "Dextra Guru",
+      "subtitle": "The intelligent copilot for Solana",
+      "description": "Elevate your Solana experience with Al-powered insights and delegated actions. Effortlessly connect with the full spectrum of Solana's protocols and services. Our platform is designed for seamless Al-powered collaboration, ensuring full synergy with the ecosystem.",
+      "longDescription": "Elevate your Solana experience with Al-powered insights and delegated actions.",
+      "technologies": ["Solana", "AI", "Nextjs"],
+      "github": "https://dextra.guru/",
+      "featured": true,
+      "categories": ["Solana", "AI"],
+      "image": "/projects/dextra.png",
+      "status": "Completed",
+      "priority": 3
+    },
+    {
+      "id": 17,
+      "title": "Cupid AI",
+      "subtitle": "Cupid AI - Stop Overthinking Your Texts",
+      "description": "Upload a chat screenshot, get instant AI analysis of favorability, emotions, and relationship advice.\n Works with any messaging app—WhatsApp, iMessage, Instagram DMs, Facebook Messenger, Telegram.\nSupports 15+ languages including English, Spanish, French, German.",
+      "longDescription": "Upload a chat screenshot, get instant AI analysis of favorability, emotions, and relationship advice.\n Works with any messaging app—WhatsApp, iMessage, Instagram DMs, Facebook Messenger, Telegram.\nSupports 15+ languages including English, Spanish, French, German.",
+      "technologies": ["AI", "Nextjs"],
+      "github": "https://cupid-ai.app/",
+      "featured": true,
+      "categories": ["AI"],
+      "image": "/projects/cupid.png",
+      "status": "Completed",
+      "priority": 6
     }
   ],
   "seo": {
